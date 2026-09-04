@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\boris\\Downloads\\Programa 18 y 19\\Programa 18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8B7C7B-0C14-438E-8ED7-C7333B179A3F}|Programa 18\\Programa 18.csproj|c:\\users\\boris\\downloads\\programa 18 y 19\\programa 18\\programa 18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C8B7C7B-0C14-438E-8ED7-C7333B179A3F}|Programa 18\\Programa 18.csproj|solutionrelative:programa 18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\boris\\Downloads\\Programa 18 y 19\\Programa 18\\Programa 18\\Program.cs",
+              "RelativeDocumentMoniker": "Programa 18\\Program.cs",
+              "ToolTip": "C:\\Users\\boris\\Downloads\\Programa 18 y 19\\Programa 18\\Programa 18\\Program.cs",
+              "RelativeToolTip": "Programa 18\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T05:41:07.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\boris\Downloads\Programa 18 y 19\Programa 18\Programa 18\bin\Debug\net10.0\Programa 18.exe
+C:\Users\boris\Downloads\Programa 18 y 19\Programa 18\Programa 18\bin\Debug\net10.0\Programa 18.deps.json
+C:\Users\boris\Downloads\Programa 18 y 19\Programa 18\Programa 18\bin\Debug\net10.0\Programa 18.runtimeconfig.json
+C:\Users\boris\Downloads\Programa 18 y 19\Programa 18\Programa 18\bin\Debug\net10.0\Programa 18.dll
+C:\Users\boris\Downloads\Programa 18 y 19\Programa 18\Programa 18\bin\Debug\net10.0\Programa 18.pdb
+C:\Users\boris\Downloads\Programa 18 y 19\Programa 18\Programa 18\obj\Debug\net10.0\Programa 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boris\Downloads\Programa 18 y 19\Programa 18\Programa 18\obj\Debug\net10.0\Programa 18.AssemblyInfoInputs.cache
+C:\Users\boris\Downloads\Programa 18 y 19\Programa 18\Programa 18\obj\Debug\net10.0\Programa 18.AssemblyInfo.cs
+C:\Users\boris\Downloads\Programa 18 y 19\Programa 18\Programa 18\obj\Debug\net10.0\Programa 18.csproj.CoreCompileInputs.cache
+C:\Users\boris\Downloads\Programa 18 y 19\Programa 18\Programa 18\obj\Debug\net10.0\Programa 18.dll
+C:\Users\boris\Downloads\Programa 18 y 19\Programa 18\Programa 18\obj\Debug\net10.0\refint\Programa 18.dll
+C:\Users\boris\Downloads\Programa 18 y 19\Programa 18\Programa 18\obj\Debug\net10.0\Programa 18.pdb
+C:\Users\boris\Downloads\Programa 18 y 19\Programa 18\Programa 18\obj\Debug\net10.0\Programa 18.genruntimeconfig.cache
+C:\Users\boris\Downloads\Programa 18 y 19\Programa 18\Programa 18\obj\Debug\net10.0\ref\Programa 18.dll
